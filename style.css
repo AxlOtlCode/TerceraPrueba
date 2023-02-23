@@ -1,0 +1,37 @@
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(228, 203, 89);
+}
+h1{
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    color: rgb(243, 207, 48);
+    background-color: rgb(35, 28, 100);
+}
+body{
+    background-color: rgb(8, 7, 14);
+}
+.DivFoto{
+    background-color: rgb(35, 28, 100);
+    display: flex;
+    justify-content: center;
+}
+.Foto{
+    width: 60%;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(243, 207, 48);
+}
+.Enfatizar{
+    color: rgb(138, 120, 39);
+    font-family: 'Courier New', Courier, monospace;
+}
+b{
+    color: aliceblue;
+}
+a{
+    color: rgb(225, 255, 26);
+}
